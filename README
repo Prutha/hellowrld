@@ -1,0 +1,13 @@
+/* ======================================================== */
+
+Author: Prutha Desai
+Date: 2nd February, 2012
+Project Repository: HelloWorld
+
+Purpose: To create sample GitHub Project
+
+There are two c program files, one header file and one make file.
+
+The program just prints "Hello World!! on screen"
+
+/* ======================================================== */
